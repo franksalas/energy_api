@@ -1,6 +1,7 @@
 
-# EIA Open Data
+# EIA Open Data [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/franksalas/energy_api.git/master)
 U.S Energy Information Administration API data extraction.
+
 
 Currently, EIA's API contains the following main data sets:
 
