@@ -1,0 +1,15 @@
+,f,name,series_id,units,updated,parent_category_id,dataset
+0,4,"U.S. Product Supplied of Distillate Fuel Oil, 4 Week Avg",PET.WDIUPUS2.4,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied
+1,W,"U.S. Product Supplied of Distillate Fuel Oil, Weekly",PET.WDIUPUS2.W,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied
+2,4,"U.S. Product Supplied of Finished Motor Gasoline, 4 Week Avg",PET.WGFUPUS2.4,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied
+3,W,"U.S. Product Supplied of Finished Motor Gasoline, Weekly",PET.WGFUPUS2.W,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied
+4,4,"U.S. Product Supplied of Kerosene-Type Jet Fuel, 4 Week Avg",PET.WKJUPUS2.4,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied
+5,W,"U.S. Product Supplied of Kerosene-Type Jet Fuel, Weekly",PET.WKJUPUS2.W,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied
+6,4,"U.S. Product Supplied of Propane and Propylene, 4 Week Avg",PET.WPRUP_NUS_2.4,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied
+7,W,"U.S. Product Supplied of Propane and Propylene, Weekly",PET.WPRUP_NUS_2.W,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied
+8,4,"U.S. Product Supplied of Residual Fuel Oil, 4 Week Avg",PET.WREUPUS2.4,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied
+9,W,"U.S. Product Supplied of Residual Fuel Oil, Weekly",PET.WREUPUS2.W,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied
+10,4,"U.S. Product Supplied of Petroleum Products, 4 Week Avg",PET.WRPUPUS2.4,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied
+11,W,"U.S. Product Supplied of Petroleum Products, Weekly",PET.WRPUPUS2.W,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied
+12,4,"U.S. Product Supplied of Other Oils, 4 Week Avg",PET.WWOUP_NUS_2.4,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied
+13,W,"U.S. Product Supplied of Other Oils, Weekly",PET.WWOUP_NUS_2.W,Thousand Barrels per Day,21-FEB-19 01.11.38 PM,714803,U.S._Weekly_Product_Supplied

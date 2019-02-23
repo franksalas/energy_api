@@ -1,0 +1,15 @@
+,category_id,name,dataset
+0,0,Electricity,EIA_Data_Sets
+1,40203,State Energy Data System (SEDS),EIA_Data_Sets
+2,711224,Total Energy,EIA_Data_Sets
+3,714755,Petroleum,EIA_Data_Sets
+4,714804,Natural Gas,EIA_Data_Sets
+5,717234,Coal,EIA_Data_Sets
+6,829714,Short-Term Energy Outlook,EIA_Data_Sets
+7,964164,Annual Energy Outlook,EIA_Data_Sets
+8,1292190,Crude Oil Imports,EIA_Data_Sets
+9,2123635,U.S. Electric System Operating Data,EIA_Data_Sets
+10,2134384,International Energy Data,EIA_Data_Sets
+11,2251604,CO2 Emissions,EIA_Data_Sets
+12,2631064,International Energy Outlook,EIA_Data_Sets
+13,2889994,U.S. Nuclear Outages,EIA_Data_Sets

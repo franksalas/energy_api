@@ -108,7 +108,8 @@ def df_series_all(dic):
               inplace=True)
     # change to datetime index
     df.date = pd.to_datetime(df['date'],format=fmat)
-    #df.set_index('date', inplace=True)
+    df.set_index('date', inplace=True)
+    df.sort_index(inplace=True)
     return df
 
 

@@ -1,0 +1,8 @@
+,category_id,name,parent_category_id,dataset
+0,714756,Summary,371,Petroleum
+1,714757,Prices,371,Petroleum
+2,714758,Crude Reserves and Production,371,Petroleum
+3,714759,Refining and Processing,371,Petroleum
+4,714760,Imports/Exports and Movements,371,Petroleum
+5,714802,Stocks,371,Petroleum
+6,714803,Consumption/Sales,371,Petroleum

@@ -1,0 +1,15 @@
+,category_id,name,parent_category_id,dataset
+0,401676,U.S. Weekly Product Supplied,714755,Consumption/Sales
+1,401684,Product Supplied,714755,Consumption/Sales
+2,402211,Prime Supplier Sales Volumes,714755,Consumption/Sales
+3,406267,Refiner Motor Gasoline Sales Volumes,714755,Consumption/Sales
+4,425414,Refiner Sales Volumes of Other Petroleum Products,714755,Consumption/Sales
+5,437081,Refiner Residual Fuel Oil and No. 4 Fuel Sales Volumes,714755,Consumption/Sales
+6,437758,Sales of Distillate Fuel Oil by End Use,714755,Consumption/Sales
+7,439394,Adjusted Sales of Distillate Fuel Oil by End Use,714755,Consumption/Sales
+8,441030,Sales of Residual Fuel Oil by End Use,714755,Consumption/Sales
+9,442061,Adjusted Sales of Residual Fuel Oil by End Use,714755,Consumption/Sales
+10,443092,Sales of Kerosene by End Use,714755,Consumption/Sales
+11,443881,Adjusted Sales of Kerosene by End Use,714755,Consumption/Sales
+12,444670,Distillate Fuel Oil and Kerosene Sales by End Use,714755,Consumption/Sales
+13,450420,Adjusted Distillate Fuel Oil and Kerosene Sales by End Use,714755,Consumption/Sales
